@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/gabinegreanu01"><img src="https://api.daily.dev/devcards/183cf79d04e24e478bd10501c3f32378.png?r=phs" width="400" alt="Andrei Gabriel Negreanu-Maior's Dev Card"/></a>
+<a href="https://app.daily.dev/gabinegreanu01"><img src="https://api.daily.dev/devcards/183cf79d04e24e478bd10501c3f32378.png?r=u0r" width="400" alt="Andrei Gabriel Negreanu-Maior's Dev Card"/></a>
 <!--
 **agnm01/agnm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
